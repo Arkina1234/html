@@ -1,0 +1,60 @@
+<html>
+<head>
+<link href="https://cdn.jsdelivr.net/npm/videojs-playlist-ui@4.0.0/dist/videojs-playlist-ui.vertical.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.css" rel="stylesheet">
+
+<script src="https://vjs.zencdn.net/7.19.2/video.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-playlist@5.0.0/dist/videojs-playlist.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-playlist-ui@4.0.0/dist/videojs-playlist-ui.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.min.js"></script>
+</head>
+<body>
+//The HTML Code
+
+    <video autoplay id="player" class="video-js vjs-fluid" controls>
+        <source src="https://v-px.mybtv.net/live/156.m3u8" type="application/x-mpegURL">
+    </video>
+
+    <div class="playlist-container  preview-player-dimensions vjs-fluid">
+        <ol class="vjs-playlist"></ol>
+    </div>
+
+// Your script
+<script>
+    var player = videojs('player');
+    
+    player.dvr();
+    player.playlistUi();
+
+    player.playlist([{
+        sources: [{
+            src: 'https://v-px.mybtv.net/live/156.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        poster: 'https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/court-tv-us.png'
+        }, {
+        sources: [{
+            src: 'https://v-ca.mybtv.net/live/212.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        poster: 'https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/tbd-us.png'
+        }, {
+        sources: [{
+            src: 'https://v-px.mybtv.net/live/13.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        poster: 'https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/circle-us.png'
+        }, {
+        sources: [{
+            src: 'https://v-ca.mybtv.net/live/213.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        poster: 'https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/quest-us.png'
+    }]);
+
+       // Play through the playlist automatically. 
+       player.playlist.autoadvance(0);
+
+</script>
+</body>
+</html>
