@@ -3,10 +3,12 @@
 <link href="https://vjs.zencdn.net/7.19.2/video-js.css" rel="stylesheet" />
 <link href="https://cdn.jsdelivr.net/npm/videojs-playlist-ui@4.0.0/dist/videojs-playlist-ui.vertical.css" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/videojs-quality-selector-plugin@1.0.2/dist/videojs-quality-selector-plugin.css" rel="stylesheet">
 
 <script src="https://vjs.zencdn.net/7.19.2/video.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/videojs-playlist@5.0.0/dist/videojs-playlist.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/videojs-playlist-ui@4.0.0/dist/videojs-playlist-ui.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.min.js"></script>
 </head>
 <body>
@@ -23,7 +25,20 @@
 // Your script
 <script>
     var player = videojs('player');
-    
+    qualityLevels: [
+      {
+        label: 'auto',
+        identify: 'foo',
+        src: 'bar'
+      }, {
+        label: 'SD',
+        identify: 'SD',
+        src: 'bar1'
+      }
+    ]
+    });
+ 
+    player.qualitySelector();
     player.dvr();
     player.playlistUi();
 
