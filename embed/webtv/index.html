@@ -1,0 +1,27 @@
+<html>
+<head>
+  <link href="https://vjs.zencdn.net/7.19.2/video-js.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.css" rel="stylesheet">
+</head>
+
+<body>
+  <video
+    id="player"
+    class="player"
+    controls
+    preload="auto"
+    poster="https://www.fite.tv/thumbs/va/2p6mu/FITE24-7_640x640_3/fite-24-7-640x360top.jpg"
+    data-setup="{}"
+  >
+    <source src="https://rpn1.bozztv.com/36bay2/gusa-fite/index.m3u8" type="application/x-mpegURL" />
+  </video>
+
+  <script src="https://vjs.zencdn.net/7.19.2/video.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.min.js"></script>
+  <script>
+    var player = videojs('player');
+ 
+    player.dvr();
+  </script> 
+</body>
+</html>
