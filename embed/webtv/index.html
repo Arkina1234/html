@@ -1,0 +1,125 @@
+<html>
+<head>
+<link href="https://vjs.zencdn.net/7.19.2/video-js.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/videojs-playlist-ui@4.0.0/dist/videojs-playlist-ui.vertical.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/videojs-quality-selector-plugin@1.0.2/dist/videojs-quality-selector-plugin.css" rel="stylesheet">
+
+<script src="https://vjs.zencdn.net/7.19.2/video.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-playlist@5.0.0/dist/videojs-playlist.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-playlist-ui@4.0.0/dist/videojs-playlist-ui.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.min.js"></script>
+</head>
+<body>
+//The HTML Code
+
+    <video autoplay id="player" class="video-js vjs-fluid" controls>
+        <source src="https://newsnetaa-newsnet-ono-hbpue.amagi.tv/playlist/newsnetAA-newsnet-ono/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+
+    <div class="playlist-container  preview-player-dimensions vjs-fluid">
+        <ol class="vjs-playlist"></ol>
+    </div>
+
+// Your script
+<script>
+    var player = videojs('player');
+    qualityLevels: [
+      {
+        label: 'auto',
+        identify: 'foo',
+        src: 'bar'
+      }, {
+        label: 'SD',
+        identify: 'SD',
+        src: 'bar1'
+      }
+    ]
+    });
+ 
+    player.qualitySelector();
+    player.dvr();
+    player.playlistUi();
+
+    player.playlist([{
+        sources: [{
+            src: 'https://newsnetaa-newsnet-ono-hbpue.amagi.tv/playlist/newsnetAA-newsnet-ono/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'NewsNet',
+        poster: 'https://newsnetnational.images.worldnow.com/images/22525851_G.png'
+        }, {
+            src: 'https://thegateway.app/BizAndYou/LimeLightBizTV/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'BizTV',
+        poster: 'https://biztv.com/wp-content/uploads/2020/06/BizTV-Logo-Website.png'
+        }, {
+            src: 'https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Classic Reruns TV',
+        poster: 'https://i.ytimg.com/vi/_JNM0cqC0Lg/maxresdefault.jpg'
+        }, {
+            src: 'https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Retro TV',
+        poster: 'https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1611951888391-OIPSPETGDE17AB8Q1IWB/Banner-RetroTV.png?format=1500w'
+        }, {
+            src: 'https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Heartland',
+        poster: 'https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1611871733548-8HNFASHY9D75RT5HO3OH/Banner-Heartland1.png?format=1500w'
+        }, {
+            src: 'https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Rev'n',
+        poster: 'https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1611863895717-8XNUV1LY33UW8JUUKOMF/Banner-REVN.jpg?format=1500w'
+        }, {
+            src: 'https://crt-ext.rodeotv.net/s/iUvKb6g3mbVgXDGy8a3tCQQSfjNXvNEL/m3u8/crt.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Classic Reels TV',
+        poster: 'https://www.classicreelstv.com/images/CRTV_TEXT_FINAL.png'
+        }, {
+            src: 'https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Right Now TV',
+        poster: 'https://www.rightnowtelevision.com/wp-content/uploads/2019/06/RightNowLogoWhiteWebCircle.png'
+        }, {
+            src: 'https://media.streambrothers.com:1936/8228/8228/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Little Saigon TV',
+        poster: 'https://www.mylstv.com/wp-content/uploads/2020/03/Little-Saigon-logo.png'
+        }, {
+            src: 'https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'CMC',
+        poster: 'https://cmc-tv.com/images/camuslogo.gif'
+        }, {
+            src: 'https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'Country Music Channel',
+        poster: 'https://cmctvusa.com/images/header.gif'
+        }, {
+            src: 'https://rpn1.bozztv.com/36bay2/gusa-fite/index.m3u8',
+            type: 'application/x-mpegURL'
+        }],
+        title: 'FiteTV 24/7',
+        poster: 'https://www.fite.tv/thumbs/va/2p6mu/FITE24-7_640x640_3/fite-24-7-640x360top.jpg'
+    }]);
+
+       // Play through the playlist automatically. 
+       player.playlist.autoadvance(0);
+
+</script>
+</body>
+</html>
