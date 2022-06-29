@@ -24,21 +24,6 @@
     var player = videojs('player');
  
     player.dvr();
-  // Get the current player's VideoTrackList object.
-    var videoTrackList = player.videoTracks();
-
-  // Listen to the "change" event.
-    videoTrackList.addEventListener('change', function() {
-
-  // Log the currently enabled VideoTrack label.
-    for (var i = 0; i < videoTrackList.length; i++) {
-      var track = videoTrackList[i];
-
-      if (track.enabled) {
-        videojs.log(track.label);
-        return;
-      }
-    }
   </script> 
 </body>
 </html>
