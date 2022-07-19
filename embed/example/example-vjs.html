@@ -1,0 +1,49 @@
+<html>
+<head>
+  <link href="https://vjs.zencdn.net/7.20.1/video-js.css" rel="stylesheet"></link>
+  <link href="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.css" rel="stylesheet" />
+  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
+</head>
+
+<body>
+    <video class="video-js" controls="" height=162px" id="my-video" poster="https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/SX2aKY916yBs5kq1RWJdusBKQ_s=/600x338/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/YJIPBJ4VKNCRFHIJVKQLOZYOWE.png" preload="auto" width="288px" data-setup="{}">
+    <source src="https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8" type="application/vnd.apple.mpegurl"></source>
+
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+
+  </video>
+  <script src="https://vjs.zencdn.net/7.20.1/video.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/videojs-dvr@1.4.0/dist/videojs-dvr.min.js"></script>
+  <script>
+    var player = videojs('my-video', {
+    html5: {
+      nativeTextTracks: false
+      }
+    });​
+
+    var videoTrackList = player.videoTracks();
+
+    videoTrackList.addEventListener('change', function() {
+      for (var i = 0; i < videoTrackList.length; i++) {
+        var track = videoTrackList[i];
+
+      if (track.enabled) {
+        videojs.log(track.label);
+        return;
+        }
+      }
+    });
+
+    player.videoTracks().addTrack(track);
+  </script> 
+  <p>&nbsp;</p>
+  <p>
+
+    <iframe src="//whatson.titantv.com/Whats/Showing/Now?css=accordian.blue2.css&amp;ds=WPXI" style="border: 0; height: 200px; width: 310px;"></iframe>
+
+  </p>
+</body>
+<html>
