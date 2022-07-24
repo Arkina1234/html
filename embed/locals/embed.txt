@@ -1,1 +1,3 @@
 <div class="videojs_iframe_embed" style="position:relative;"><div style="display:block;width:100%;height:auto;padding-bottom:56.25%;"></div><iframe style="position:absolute;top:0;left:0;width:100%; height:100%;" border="0" height="100%" frameborder="0" webkitallowfullscreen="" allowfullscreen="" mozallowfullscreen="" scrolling="no" scrolling="no" src=""></iframe></div>
+<p>&nbsp;</p>
+<p><iframe src="//whatson.titantv.com/Whats/Showing/Now?css=accordian.blue2.css&amp;ds=" style="border: 0; height: 200px; width: 310px;"></iframe></p>
