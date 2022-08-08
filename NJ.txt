@@ -1,0 +1,37 @@
+Government Access GOV15
+https://cablecast.edisonnj.org/live-6/live/live.m3u8
+Local Organization LOOR19
+https://vblive-c.viebit.com/b8474ed8-6ff3-45c1-8dd7-d986622bb71c/playlist.m3u8
+Classic Arts Showcase CH20
+Government Access GOV22
+https://scotchplains.secure.footprint.net/egress/bhandler/scotchplains/streama/manifest.m3u8
+Local Organization LOOR30
+https://princetoncmttv.secure.footprint.net/egress/bhandler/princetoncmttv/streama/manifest.m3u8
+Public Education Government Access PEG32
+https://wbmatv.secure.footprint.net/egress/bhandler/wmbatv/streamb/manifest.m3u8
+Public Education Government Access PEG33
+https://summit-nj.secure.footprint.net/egress/bhandler/summitnj/streama/manifest.m3u8
+Public Education Government Access PEG34
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/c/MontclairGovernment
+Local Organization LOOR35
+https://woodbridge-nj.secure.footprint.net/egress/bhandler/woodbridgenj/streama/manifest.m3u8
+Public Education Government Access PEG35
+https://wbmatv.secure.footprint.net/egress/bhandler/wmbatv/streama/manifest.m3u8
+Public Education Government Access PEG36
+https://sbrunswickboe.secure.footprint.net/egress/bhandler/sbrunswickboe/streama/manifest.m3u8
+Government Access GOV37
+https://vblive-c.viebit.com/9e32dafb-c2fd-49f5-9359-83532f73dcba/playlist.m3u8
+Government Access GOV38
+https://ebrunswick-nj.secure.footprint.net/egress/bhandler/ebrunswicknj/streama/manifest.m3u8
+Public Education Government Access PEG40
+https://piscataway-nj.secure.footprint.net/egress/bhandler/piscatawaynj/streama/manifest.m3u8
+Public Education Government Access PEG44
+https://vblive-c.viebit.com/2fdcab96-69ea-436e-b584-f3434f763c5d/playlist.m3u8
+Government Access GOV61
+https://longhilltv.secure.footprint.net/egress/bhandler/longhilltv/streama/manifest.m3u8
+Classic Arts Showcase CH71
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+Classic Arts Showcase CH74
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+Local Organization LOOR77
+https://oradell-nj.secure.footprint.net/egress/bhandler/oradellnj/streama/manifest.m3u8
