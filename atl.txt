@@ -29,7 +29,7 @@ https://v-la.mybtv.net/live/93.m3u8?env=prd&uid=-1&x=1
 023 CobbTV
 https://stream2.earthchannel.com/CobbCoGALIVE/_definst_/CobbCoGALIVE.stream/playlist.m3u8
 025 WATL
-/livetv.epg/mnt.watl.atlanta.ga.us.m3u8
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/mnt.watl.atlanta.ga.us.m3u8
 028 WDWW-LD
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
 029 beINXtra
@@ -98,9 +98,9 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medlow.m3u8
 164 HSN2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/medlow.m3u8
 166 COZI
-/livetv.epg/cozi.network.us.m3u8
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/cozi.network.us.m3u8
 167 Grit
-/livetv.epg/grit.network.us.m3u8
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/grit.network.us.m3u8
 171 TeleXitos
 https://v-pi.mybtv.net/live/419.m3u8?env=prd&uid=-1&x=1
 178 TBN
