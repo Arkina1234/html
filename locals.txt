@@ -1,0 +1,23 @@
+NY: WENY News
+https://univtec.g-mana.live/media/fce39caa-4619-45c7-99aa-17cd8b703bcc/mainManifest.m3u8?player.h=196&player.w=350&player.ssid=5e3da7a4-cb84-44a6-b10c-bb2120d65076
+PA: Erie News Now WICU & WSEE
+https://univtec.g-mana.live/media/eb04a877-9496-4215-a74c-5ca86efe8fa3/mainManifest.m3u8?player.h=183&player.w=328
+MD: WMDT 47 ABC News
+https://live.field59.com/wmdt/ngrp:wmdt1_all/playlist.m3u8
+MD: WBOC News
+https://live.field59.com/wboc/wboc2/playlist.m3u8
+MD: WBOC 16.2 Delmarva Sports Network
+https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
+VA: WCAV
+https://m3u8checker.univtec.com/?url=https://WCAV.akamaized.net/hls/live/2030401/WCAV_OUT/master.m3u8
+VA: WSLS 10 News Now
+https://dai.google.com/linear/hls/event/uGEja72-RAa8Uc5-WeEPnA/master.m3u8
+WV: WOAY NewsWatch 4
+
+WTVQ
+https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
+WDRB
+https://dai.google.com/linear/hls/event/tfWOw8_2T6Kkp6Yfj3OcGg/master.m3u8
+WPSD Local 6
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/7cf162b8-01f4-4b6a-8b18-7477de86f7a3.m3u8
+
