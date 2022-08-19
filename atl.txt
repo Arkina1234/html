@@ -1,0 +1,143 @@
+002 WSB
+/livetv.epg/abc.wsb.atlanta.ga.us.m3u8
+003 WTHC
+https://5ed325193d4e1.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
+004 Azteca
+https://v-sd.mybtv.net/live/508.m3u8?env=prd&uid=-1&x=1
+005 WAGA
+/livetv.epg/fox.waga.atlanta.ga.us.m3u8
+006 Estrella
+https://v-fn.mybtv.net/live/887.m3u8?env=prd&uid=-1&x=1
+007 WGTV
+https://wgtvdt.lls.pbs.org/out/v1/1fe7fe6e36524881bd999a7003394ec7/index_1.m3u8
+011 WXIA
+/livetv.epg/nbc.wxia.atlanta.ga.us.m3u8
+013 HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uscln/medlow.m3u8
+017 WPCH
+/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
+018 WUVG
+/livetv.epg/uni.wuvg.atlanta.ga.us.m3u8
+019 WGCL
+/livetv.epg/cbs.wgcl.atlanta.ga.us.m3u8
+020 APG
+https://v-in.mybtv.net/live/846.m3u8?env=prd&uid=-1&x=1
+021 AIB
+https://stream2.earthchannel.com/AibcstLIVE/_definst_/AibcstLIVE.stream/playlist.m3u8
+022 TBN
+https://v-la.mybtv.net/live/93.m3u8?env=prd&uid=-1&x=1
+023 CobbTV
+https://stream2.earthchannel.com/CobbCoGALIVE/_definst_/CobbCoGALIVE.stream/playlist.m3u8
+025 WATL
+/livetv.epg/mnt.watl.atlanta.ga.us.m3u8
+028 WDWW-LD
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
+029 beINXtra
+https://v-pi.mybtv.net/live/341.m3u8?env=prd&uid=-1&x=1
+034 WATC
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+035 Daystar
+https://v-in.mybtv.net/live/777.m3u8?env=prd&uid=-1&x=1
+036 WUPA
+/livetv.epg/cw.wupa.atlanta.ga.us.m3u8
+047 TLMD
+/livetv.epg/telemundo.wktb.cd2.atlanta.ga.us.m3u8
+101 Bounce
+/livetv.epg/bounce.network.us.m3u8
+102 DABL
+https://siloh.pluto.tv/lilo/production/DABL/master_5.m3u8
+103 Comet
+/livetv.epg/comet.tv.us.m3u8
+104 Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_14.m3u8
+105 Movies!
+/livetv.epg/movies.us.m3u8
+106 BUZZR
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+107 theGrio
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index_2.m3u8
+108 Decades
+/livetv.epg/decades.network.us.m3u8
+109 FoxWeather
+https://247wlive.foxweather.com/stream/index_768x432.m3u8
+113 LATV
+https://v-fn.mybtv.net/live/894.m3u8?env=prd&uid=-1&x=1
+114 YTA
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+115 CTVN
+https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/chunklist_b396000_sleng.m3u8
+117 Crime
+/livetv.epg/true.crime.network.us.m3u8
+119 getTV
+/livetv.epg/gettv.us.m3u8
+121 ThisTV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+122 Charge!
+/livetv.epg/charge.us.m3u8
+123 CourtTV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/01.m3u8
+124 Laff
+/livetv.epg/laff.network.us.m3u8
+125 Mystery
+/livetv.epg/court.tv.mystery.network.us.m3u8
+133 Circle
+https://frndlymsl1.akamaized.net/hls/live/2006426/circlemsl/circlemsl/circle_600/chunklist.m3u8?hdntl=exp=1660986327~acl=*~data=hdntl~hmac=93590613cfbc8c42eba8a713ae7f0f627ea7e94d7488570667583e4d63397d5b
+139 BizTV
+https://thegateway.app/BizAndYou/LimeLightBizTV/playlist.m3u8
+140 JTV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+141 NTD
+https://ntd02.akamaized.net/NTDA/tracks-v2a1/mono.m3u8
+142 Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+146 ShopLC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/01.m3u8
+147 QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medlow.m3u8
+155 AntennaTV
+164 HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/medlow.m3u8
+166 COZI
+/livetv.epg/cozi.network.us.m3u8
+167 Grit
+/livetv.epg/grit.network.us.m3u8
+171 TeleXitos
+https://v-pi.mybtv.net/live/419.m3u8?env=prd&uid=-1&x=1
+178 TBN
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
+179 Inspire
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+180 Smile
+https://v-la.mybtv.net/live/95.m3u8?env=prd&uid=-1&x=1
+181 Enlace
+https://v-la.mybtv.net/live/96.m3u8?env=prd&uid=-1&x=1
+182 Positiv
+https://v-la.mybtv.net/live/97.m3u8?env=prd&uid=-1&x=1
+163 HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+164 HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+195 ShopHQ
+https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
+112 PBSKids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+149 NHKWorld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+187 CAS
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+188 F24English
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+189 NASATV
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+140 JTV
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+141 NTD
+https://ntd02.akamaized.net/NTDA/index.m3u8
+142 Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+146 ShopLC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+190 Airang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+156 TCT
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/29565692/events/9276365/
