@@ -1,0 +1,12 @@
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+https://5ed325193d4e1.streamlock.net:444/LiveTV/ACVBHD/playlist.m3u8
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+https://5ed325193d4e1.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
