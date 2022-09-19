@@ -1,0 +1,24 @@
+58.1 NTD
+https://ntd02.akamaized.net/NTDA/index.m3u8
+58.2 BizTV
+https://thegateway.app/BizAndYou/BizTV/chunks.m3u8?nimblesessionid=1788452
+58.3 YTA
+https://thegateway.app/YouToo/YTamerica/chunks.m3u8?nimblesessionid=1788553
+58.4 FunRoads
+http://104.143.4.5:2080/funroads.m3u8
+58.5 ACE
+http://104.143.4.5:12000/aspen.m3u8
+58.6 Retro
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+58.7 Heartland
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+58.8 CBNNews
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+58.9 Aliento
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+58.10
+58.11
+58.12
+58.13
+58.14
+58.15
