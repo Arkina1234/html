@@ -1,0 +1,6 @@
+https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8
+https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt1-rtmp-v3/live.m3u8
+https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac/playlist.m3u8
+https://wsb-radio-ono.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsbradio/CDN/playlist.m3u8
+https://27053.live.streamtheworld.com/WBALAMAAC.aac
+https://drkqk7wnbkqnh.cloudfront.net/out/v1/8daa4679e8034ed9a5ee9f0d66461562/index.m3u8
