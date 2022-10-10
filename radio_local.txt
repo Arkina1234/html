@@ -1,15 +1,55 @@
 WABC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC_SC
 WNYC-FM
-http://fm939.wnyc.org/wnycfm
+https://fm939.wnyc.org/wnycfm
+WNYC
+https://am820.wnyc.org/wnycam
+WQXR-FM
+https://stream.wqxr.org/wqxr
+New Sounds
+https://q2stream.wqxr.org/q2
+New Standard
+https://tjc.wnyc.org/js-stream
+OperaVore
+https://opera-stream.wqxr.org/operavore
 KABC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC_SC
 WGN
 http://stream.abacast.net/direct/wgnam-wgnamaac-ibc2
+WBEZ
+https://stream.wbez.org/wbez64-web.aac
+Vocalo
+https://stream.wbez.org/vocalo128
+WFMT
+https://wfmt.streamguys1.com/main-mp3
 WLS
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC
+WHYY-FM
+https://whyy.streamguys1.com/whyy_persistentplayer
+WHYY Plus
+https://whyy-hd.streamguys1.com/whyy-hd-mp3
+WQED-FM
+https://ice-1.streamhoster.com/lv_wqed--893
+Pittsburgh Concert Channel
+https://ice-1.streamhoster.com/lv_wqed--concert
+Q The Music
+https://ice-1.streamhoster.com/lv_wqed--qthemusic
+WGBH
+https://streams.audio.wgbh.org/wgbh
+WCRB
+https://streams.audio.wgbh.org/classical-hi
+WCAI
+https://streams.audio.wgbh.org/wcai
+A Celtic Sojourn
+https://streams.audio.wgbh.org:8200/celtic-sojourn
+WGBH Jazz 24/7
+https://streams.audio.wgbh.org:8117/Jazz24-7
 WETA
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM_SC
+WSB
+https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac
+WSRV
+https://ad-oom-cmg.streamguys1.com/atl971/atl971-sgplayer-mp3
 KLIF
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC_SC
 WPGP
