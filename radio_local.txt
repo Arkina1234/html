@@ -41,9 +41,9 @@ https://streams.audio.wgbh.org/classical-hi
 WCAI
 https://streams.audio.wgbh.org/wcai
 A Celtic Sojourn
-https://streams.audio.wgbh.org:8200/celtic-sojourn
+https://streams.audio.wgbh.org/celtic-sojourn.mp3
 WGBH Jazz 24/7
-https://streams.audio.wgbh.org:8117/Jazz24-7
+https://streams.audio.wgbh.org/Jazz24-7
 WETA
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM_SC
 WSB
@@ -58,8 +58,8 @@ KUOW-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_AAC.aac
 WHIO
 https://ad-oom-cmg.streamguys1.com/day957/day957-sgplayer-aac
-WHKO
-https://ad-oom-cmg.streamguys1.com/day991/day991-sgplayer-mp3
+WZLR
+https://ad-oom-cmg.streamguys1.com/day953/day953-sgplayer-mp3
 WOSU-FM
 http://wosu.streamguys1.com/NPR_128
 WBAL
@@ -70,4 +70,3 @@ KKLA-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC
 KEPN
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEPNAMAAC_SC
-
