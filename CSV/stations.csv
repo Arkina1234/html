@@ -1,20 +1,39 @@
 Stations,URL
+BYU Radio,https://cdn.byub.org/byuradio/byuradio_mp3
 Coast to Coast AM,https://stream.willstare.com:8450/;stream
 Infowars,https://streams1.infowars.com/alexjonesshow
-Black Gospel Radio,https://ice64.securenetsystems.net:80/BGRLIVE
-Marquette Radio,https://www.ophanim.net:8444/s/7360
-Seeburg 1000,https://psn3.prostreaming.net/proxy/seeburg/stream
-Mormon Channel,https://audiocdn.mainstreaming.tv/101156/mmc
-Aardvark Blues FM,https://streaming.live365.com/b77280_128mp3
 KSL Newsradio,https://bonneville.cdnstream1.com/2704_48.aac
+Air1,https://maestro.emfcdn.com/stream_for/air1/web/aac
+K-LOVE,https://maestro.emfcdn.com/stream_for/k-love/web/aac
+K-LOVE 2000s,https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac
+K-LOVE 90s,https://maestro.emfcdn.com/stream_for/k-love-90s/web/aac
+Black Gospel Radio,https://ice64.securenetsystems.net:80/BGRLIVE
+90.9 WBUR,https://fm909.wbur.org/wbur_www
 GPB Radio,https://gpb.streamguys1.com/oom/gpb-radio-mp3
 The Ideas Network,https://wpr-ice.streamguys1.com/wpr-ideas-mp3-64
+KSDP Radio,http://ic2625.c962.fast-serv.com/stream.aac
+KSKA,https://alaskapublic-live.streamguys1.com/aac-web
+KTOO News,https://18423.live.streamtheworld.com/KTOOFM_SC
+KUNC,https://kunc.streamguys1.com/kunc
+KUOW 94.9,https://14993.live.streamtheworld.com/KUOWFM_HIGH_MP3.mp3
+KVPR,http://27063.live.streamtheworld.com/KVPRFM_SC
 MPR News,https://nis.stream.publicradio.org/nis.aac
+Nebraska Public Media,https://18533.live.streamtheworld.com/KUCVFM.mp3
 Oregon Public Broadcasting,http://stream1.opb.org/radio.mp3
+Classical KUSC,http://128.mp3.kusc.live/
+Spokane Public Radio (KPBX-FM 91.1),https://23023.live.streamtheworld.com/KPBX_FM.mp3
+Spokane Public Radio (KPBZ 90.3),https://23023.live.streamtheworld.com/KPBZ_FM.mp3
+Spokane Public Radio (KSFC 91.9),https://23023.live.streamtheworld.com/KPBZ_FM.mp3
 Utah Public Radio,http://uprxstreamer.usu.edu:8000/stream
 Vermont Public Radio,http://vpr.streamguys.net/vpr64.mp3
+WNRN,http://22113.live.streamtheworld.com/WNRNFM_128_SC
 WUNC,https://edg-iad-wunc-ice.streamguys1.com/wunc-128-mp3
 Yellowstone Public Radio,https://ypr.streamguys1.com/live
+Mix 101.5 (WRAL FM 101.5),https://ais-sa8.cdnstream1.com/2748_64.aac
+92.9 ZZU (KZZU-FM 92.9),https://14103.live.streamtheworld.com/KZZUFM_SC
+99.5 Yes FM (WYSS FM 99.5),https://ice24.securenetsystems.net/WYSS
+Boost 95.5 (KXBS FM 95.5),https://boost1019.streamguys1.com/stlouis/live-aac
+Modern Rock 98.7 (WRMR FM 98.7),https://ais-sa8.cdnstream1.com/2755_64.aac
 NOAA: Miami FL,https://wxradio.org/FL-Miami-KHB34
 NOAA: Atlanta GA,https://wxradio.org/GA-Atlanta-KEC80
 NOAA: Boise ID,https://wxradio.org/ID-Boise-WXK68
