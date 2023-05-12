@@ -1,26 +1,26 @@
-wget -O "Scrubs S08E01.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/1
+wget -O "Scrubs S08E01.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/1"
 
-wget -O "Scrubs S08E02.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/2
+wget -O "Scrubs S08E02.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/2"
 
-wget -O "Scrubs S08E03.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/3
+wget -O "Scrubs S08E03.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/3"
 
-wget -O "Scrubs S08E04.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/4
+wget -O "Scrubs S08E04.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/4"
 
-wget -O "Scrubs S08E05.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/5
+wget -O "Scrubs S08E05.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/5"
 
-wget -O "Scrubs S08E06.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/6
+wget -O "Scrubs S08E06.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/6"
 
-wget -O "Scrubs S08E07.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/7
+wget -O "Scrubs S08E07.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/7"
 
-wget -O "Scrubs S08E08.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/8
+wget -O "Scrubs S08E08.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/8"
 
-wget -O "Scrubs S08E09.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/9
+wget -O "Scrubs S08E09.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/9"
 
-wget -O "Scrubs S08E10.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/10
+wget -O "Scrubs S08E10.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/10"
 
-wget -O "Scrubs S08E11.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/11
+wget -O "Scrubs S08E11.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/11"
 
-wget -O "Scrubs S08E12.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/12
+wget -O "Scrubs S08E12.mkv" "https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/12"
 
 wget -O "Scrubs S08E13.mkv" https://tv4.live/api/stream/toddwhittle@gmail.com/Keegan11!/tvshow/tt0285403/8/13
 
