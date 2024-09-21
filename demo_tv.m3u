@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Live Akamai m3u8
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1,Live Akamai m3u8
+https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8
+#EXTINF:-1,HLS with widevine
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/widevine-php/widevine-foreignkey.php?pX=B03B45
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://drm-test-cf.softvelum.com/live_ezdrm/bunny/playlist.m3u8
