@@ -1,0 +1,17 @@
+{
+  "provider": {
+    "epg": ""
+  },
+  "categories": {
+    "main": {
+      "name": "FAST"
+    }
+  },
+  "channels": [
+    {
+      "category": "main",
+      "name": "AccuWeather NOW",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweatherinc-accuweather-ono/playlist.m3u8"
+    }
+  ]
+}
