@@ -1,162 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="15218">
-    <display-name lang="en">Programming Unavailable</display-name>
+  <channel id="PRGNOT">
+    <display-name lang="en">Programming Unavailable (PRGNOT)</display-name>
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15218_dark_360w_270h.png"/>
   </channel>
-  <channel id="16175">
+  <channel id="LOCAL">
     <display-name lang="en">Local Programming</display-name>
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16175_dark_360w_270h.png"/>
   </channel>
-  <programme start="20241018220000 -0400" stop="20241019020000 -0400" channel="15218">
+  <programme start="20241018220000 -0400" stop="20241019020000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019020000 -0400" stop="20241019060000 -0400" channel="15218">
+  <programme start="20241019020000 -0400" stop="20241019060000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019060000 -0400" stop="20241019100000 -0400" channel="15218">
+  <programme start="20241019060000 -0400" stop="20241019100000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019100000 -0400" stop="20241019140000 -0400" channel="15218">
+  <programme start="20241019100000 -0400" stop="20241019140000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019140000 -0400" stop="20241019180000 -0400" channel="15218">
+  <programme start="20241019140000 -0400" stop="20241019180000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019180000 -0400" stop="20241019220000 -0400" channel="15218">
+  <programme start="20241019180000 -0400" stop="20241019220000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019220000 -0400" stop="20241020020000 -0400" channel="15218">
+  <programme start="20241019220000 -0400" stop="20241020020000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020020000 -0400" stop="20241020060000 -0400" channel="15218">
+  <programme start="20241020020000 -0400" stop="20241020060000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020060000 -0400" stop="20241020100000 -0400" channel="15218">
+  <programme start="20241020060000 -0400" stop="20241020100000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020100000 -0400" stop="20241020140000 -0400" channel="15218">
+  <programme start="20241020100000 -0400" stop="20241020140000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020140000 -0400" stop="20241020180000 -0400" channel="15218">
+  <programme start="20241020140000 -0400" stop="20241020180000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020180000 -0400" stop="20241020220000 -0400" channel="15218">
+  <programme start="20241020180000 -0400" stop="20241020220000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020220000 -0400" stop="20241021020000 -0400" channel="15218">
+  <programme start="20241020220000 -0400" stop="20241021020000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021020000 -0400" stop="20241021060000 -0400" channel="15218">
+  <programme start="20241021020000 -0400" stop="20241021060000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021060000 -0400" stop="20241021100000 -0400" channel="15218">
+  <programme start="20241021060000 -0400" stop="20241021100000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021100000 -0400" stop="20241021140000 -0400" channel="15218">
+  <programme start="20241021100000 -0400" stop="20241021140000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021140000 -0400" stop="20241021180000 -0400" channel="15218">
+  <programme start="20241021140000 -0400" stop="20241021180000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021180000 -0400" stop="20241021220000 -0400" channel="15218">
+  <programme start="20241021180000 -0400" stop="20241021220000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021220000 -0400" stop="20241022020000 -0400" channel="15218">
+  <programme start="20241021220000 -0400" stop="20241022020000 -0400" channel="PRGNOT">
     <title lang="en">Programming Unavailable</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241018220000 -0400" stop="20241019020000 -0400" channel="16175">
+  <programme start="20241018220000 -0400" stop="20241019020000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019020000 -0400" stop="20241019060000 -0400" channel="16175">
+  <programme start="20241019020000 -0400" stop="20241019060000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019060000 -0400" stop="20241019100000 -0400" channel="16175">
+  <programme start="20241019060000 -0400" stop="20241019100000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019100000 -0400" stop="20241019140000 -0400" channel="16175">
+  <programme start="20241019100000 -0400" stop="20241019140000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019140000 -0400" stop="20241019180000 -0400" channel="16175">
+  <programme start="20241019140000 -0400" stop="20241019180000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019180000 -0400" stop="20241019220000 -0400" channel="16175">
+  <programme start="20241019180000 -0400" stop="20241019220000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241019220000 -0400" stop="20241020020000 -0400" channel="16175">
+  <programme start="20241019220000 -0400" stop="20241020020000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020020000 -0400" stop="20241020060000 -0400" channel="16175">
+  <programme start="20241020020000 -0400" stop="20241020060000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020060000 -0400" stop="20241020100000 -0400" channel="16175">
+  <programme start="20241020060000 -0400" stop="20241020100000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020100000 -0400" stop="20241020140000 -0400" channel="16175">
+  <programme start="20241020100000 -0400" stop="20241020140000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020140000 -0400" stop="20241020180000 -0400" channel="16175">
+  <programme start="20241020140000 -0400" stop="20241020180000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020180000 -0400" stop="20241020220000 -0400" channel="16175">
+  <programme start="20241020180000 -0400" stop="20241020220000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241020220000 -0400" stop="20241021020000 -0400" channel="16175">
+  <programme start="20241020220000 -0400" stop="20241021020000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021020000 -0400" stop="20241021060000 -0400" channel="16175">
+  <programme start="20241021020000 -0400" stop="20241021060000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021060000 -0400" stop="20241021100000 -0400" channel="16175">
+  <programme start="20241021060000 -0400" stop="20241021100000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021100000 -0400" stop="20241021140000 -0400" channel="16175">
+  <programme start="20241021100000 -0400" stop="20241021140000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021140000 -0400" stop="20241021180000 -0400" channel="16175">
+  <programme start="20241021140000 -0400" stop="20241021180000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021180000 -0400" stop="20241021220000 -0400" channel="16175">
+  <programme start="20241021180000 -0400" stop="20241021220000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
-  <programme start="20241021220000 -0400" stop="20241022020000 -0400" channel="16175">
+  <programme start="20241021220000 -0400" stop="20241022020000 -0400" channel="LOCAL">
     <title lang="en">LA/PEG</title>
     <desc lang="en"/>
   </programme>
