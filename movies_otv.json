@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Take Me Home: The John Denver Story",
+    "category": "Drama",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/original/6wy5nMRZguT9G9t46WfI4bbGO1p.jpg",
+      "plot": "A small-screen adaptation of Denver’s biography focuses on how Denver seemingly lived for one thing only: the approval of his Air Force pilot father. Even if this telepic had stuck to the facts, it could have created a far warmer portrait of a man whose simple and uplifting songs became his passport to the world.",
+      "cast": [
+        "Chad Lowe",
+        "Kristin Davis",
+        "Gerald McRaney"
+      ],
+      "country": [
+        "United States"
+      ],
+      "rating": "7.0",
+      "year": 2000,
+      "genre": [
+        "drama",
+        "family"
+      ],
+      "added": 957128400,
+      "duration": 5400,
+      "ttl": 957128400
+    },
+    "video": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1sbn0fzh/format/applehttp/protocol/https/flavorIds/1_ro5fkeor,1_ths1ok1f,1_d2nojnpj,1_9vix63rc,1_rd5mr5ld,1_ubw1mm02,1_elga8zoz/preferredBitrate/1500/maxBitrate/10000/a.m3u8"
+  }
+]
