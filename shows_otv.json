@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Judge Mom",
+    "category": "Reality",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/original/7ZM3JLPmsMlgPARgvFM0mEVJobA.jpg",
+      "genre": [
+        "law",
+        "reality"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "info": {
+          "poster": "https://image.tmdb.org/t/p/original/7ZM3JLPmsMlgPARgvFM0mEVJobA.jpg",
+          "year": 2021
+        },
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Wicked Step-Mother",
+            "video": "https://player.zype.com/manifest/651c48993f81da0001923fb0.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
+          },
+          {
+            "episode": 2,
+            "name": "AZ to LA",
+            "video": "https://player.zype.com/manifest/651c489977f6310001535280.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
+          },
+          {
+            "episode": 3,
+            "name": "I Do Not",
+            "video": "https://player.zype.com/manifest/651c48992852360001f87e20.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
+          },
+          {
+            "episode": 4,
+            "name": "No Free Rides",
+            "video": "https://player.zype.com/manifest/651c4899cda9420001b3e9a1.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
+          }
+        ]
+      }
+    ]
+  }
+]
