@@ -11,30 +11,46 @@
     },
     "seasons": [
       {
-        "season": 1,
+        "season": 2,
         "info": {
-          "poster": "https://image.tmdb.org/t/p/original/7ZM3JLPmsMlgPARgvFM0mEVJobA.jpg",
-          "year": 2021
+          "poster": "https://image.tmdb.org/t/p/original/vkPkUQmkfQAkSWr1cgmlIJ41mFy.jpg",
+          "year": 2022
         },
         "episodes": [
           {
             "episode": 1,
-            "name": "Wicked Step-Mother",
+            "name": "Alienated Whistleblower",
+            "info": {
+              "poster": "https://assets.maz.tv/y6wj3p6du005oaa030vh1yyimuxy.jpeg",
+              "duration": 1500
+            },
             "video": "https://player.zype.com/manifest/651c48993f81da0001923fb0.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
           },
           {
             "episode": 2,
-            "name": "AZ to LA",
+            "name": "Psychic Promises",
+            "info": {
+              "poster": "https://assets.maz.tv/0i3hzm6hngx94lxo290a3cv7nvsz.jpeg",
+              "duration": 1680
+            },
             "video": "https://player.zype.com/manifest/651c489977f6310001535280.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
           },
           {
             "episode": 3,
-            "name": "I Do Not",
+            "name": "Daddy Dearest",
+            "info": {
+              "poster": "https://assets.maz.tv/rhixc63c0prg9g684rvvr78g18uy.jpeg",
+              "duration": 1500
+            },
             "video": "https://player.zype.com/manifest/651c48992852360001f87e20.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
           },
           {
             "episode": 4,
-            "name": "No Free Rides",
+            "name": "Adults Only",
+            "info": {
+              "poster": "https://assets.maz.tv/vk15qy1e8o1djtz37jheudi7p6p9.jpeg",
+              "duration": 1560
+            },
             "video": "https://player.zype.com/manifest/651c4899cda9420001b3e9a1.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim"
           }
         ]
